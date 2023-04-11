@@ -50,3 +50,12 @@ Além disso, a Kidsmart DAO poderia ter comitês especializados que seriam respo
 
 A plataforma online da DAO permitiria que os membros se comuniquem e colaborem uns com os outros, compartilhando ideias e recursos educacionais, bem como discutindo as decisões da organização. Isso ajudaria a promover a transparência e a inclusão na governança da organização.
 
+## Comunicação
+
+A comunicação interna da Kidsmart DAO será realizada através do Discord, que é uma plataforma de chat online e voz que permite que os membros se comuniquem facilmente e compartilhem recursos. O Discord também possui recursos como canais específicos para discussão de tópicos e a possibilidade de realizar videoconferências, o que facilita a colaboração entre os membros.
+
+A comunicação externa da Kidsmart DAO será feita principalmente através do Twitter. A plataforma é uma das principais fontes de informação e notícias na internet, e é amplamente utilizada para comunicação de projetos e organizações. O Twitter permitirá que a Kidsmart DAO alcance um público mais amplo e divulgue seu trabalho e seus objetivos.
+
+A comunicação externa da Kidsmart DAO será focada em compartilhar informações sobre as atividades da organização, incluindo suas iniciativas de financiamento coletivo e eventos. A conta no Twitter da DAO também será usada para compartilhar notícias e informações relevantes sobre educação e tecnologia. Os membros da DAO serão incentivados a seguir e compartilhar as postagens da conta do Twitter para aumentar a visibilidade da organização.
+
+Para garantir uma comunicação eficaz, a Kidsmart DAO estabelecerá um plano de comunicação claro, incluindo o uso de hashtags e o calendário de postagens no Twitter. Além disso, os membros da DAO serão incentivados a compartilhar informações e recursos relevantes sobre educação e tecnologia em suas próprias redes sociais, ampliando ainda mais o alcance da organização.
