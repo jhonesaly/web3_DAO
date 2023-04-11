@@ -1,16 +1,16 @@
 # Kidsmart DAO
 
+![logo](logo.jpg)
+
 - Missão
 - Nome
 - Entrega
+- Financiamento
+- Governança
+- Convite
 - Comunicação
   - Discord (interna)
   - Twitter (externa)
-- Convite
-- Token governança
-- Mecanismo de financiamento
-- Ferramentas de votação
-- LLC (limited liability company)
 
 ## Missão
 
@@ -39,3 +39,14 @@ No entanto, os membros da DAO que contribuem com quantias maiores teriam um pode
 Além disso, a plataforma permitiria que os membros da DAO oferecessem outros recursos e serviços em troca de criptomoedas. Por exemplo, um membro poderia oferecer uma aula particular de matemática em troca de uma contribuição para a DAO. Isso incentivaria a colaboração de outras formas, além da contribuição financeira direta.
 
 A Kidsmart DAO também poderia buscar parcerias com outras organizações ou empresas que compartilham dos mesmos valores e objetivos. Essas parcerias poderiam fornecer financiamento adicional ou recursos educacionais complementares para a DAO.
+
+## Governança
+
+A governança da Kidsmart DAO será baseada em um sistema de votação em que cada membro da DAO terá direito a um número de votos baseado na quantidade de tokens que possuir. Os membros podem ganhar tokens de várias maneiras, incluindo doações, cumprimento de tarefas e outras formas de contribuição. O sistema de votação será baseado em contratos inteligentes e implementado na plataforma online da DAO.
+
+A DAO terá um conjunto de regras e procedimentos claros para a tomada de decisões, incluindo o processo de votação e a implementação de decisões aprovadas pela comunidade. Os membros da DAO terão a oportunidade de propor e votar em decisões importantes de governança, incluindo a seleção de conteúdo educacional, definição de regras de financiamento e outras questões críticas.
+
+Além disso, a Kidsmart DAO poderia ter comitês especializados que seriam responsáveis por gerenciar tarefas específicas e tomadas de decisão dentro da organização. Por exemplo, poderia haver um comitê de seleção de conteúdo educacional que seria responsável por avaliar e recomendar a compra de novos conteúdos. Os membros da DAO poderiam ser convidados a participar desses comitês com base em suas habilidades, experiências ou interesses.
+
+A plataforma online da DAO permitiria que os membros se comuniquem e colaborem uns com os outros, compartilhando ideias e recursos educacionais, bem como discutindo as decisões da organização. Isso ajudaria a promover a transparência e a inclusão na governança da organização.
+
