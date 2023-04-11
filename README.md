@@ -30,4 +30,12 @@ Depois que uma proposta de compra é aprovada, os fundos necessários seriam tra
 
 Além disso, a plataforma também forneceria ferramentas para os membros da DAO se comunicarem e colaborarem entre si, compartilhando ideias, experiências e recursos educacionais. A plataforma também permitiria que os membros avaliem e comentem sobre os conteúdos adquiridos, a fim de ajudar outros pais e mães a fazerem escolhas informadas sobre o que comprar.
 
+## Financiamento
 
+A Kidsmart DAO será financiada majoritariamente pela colaboração dos familiares da organização. Os membros da DAO contribuiriam com criptomoedas para um endereço da carteira da DAO, que seria gerenciado por um smart contract. A quantidade mínima de contribuição para se tornar um membro seria definida pelos próprios membros em uma votação. Todos os membros teriam direito a receber o mesmo conteúdo educacional adquirido pela DAO, independentemente da quantidade de contribuição.
+
+No entanto, os membros da DAO que contribuem com quantias maiores teriam um poder de voto maior nas decisões relacionadas à compra de conteúdo educacional e outras questões importantes de governança. Isso incentivaria uma maior colaboração financeira entre os membros, já que aqueles que contribuem mais teriam uma voz mais forte nas decisões da organização.
+
+Além disso, a plataforma permitiria que os membros da DAO oferecessem outros recursos e serviços em troca de criptomoedas. Por exemplo, um membro poderia oferecer uma aula particular de matemática em troca de uma contribuição para a DAO. Isso incentivaria a colaboração de outras formas, além da contribuição financeira direta.
+
+A Kidsmart DAO também poderia buscar parcerias com outras organizações ou empresas que compartilham dos mesmos valores e objetivos. Essas parcerias poderiam fornecer financiamento adicional ou recursos educacionais complementares para a DAO.
