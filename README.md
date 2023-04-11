@@ -2,15 +2,13 @@
 
 ![logo](logo.jpg)
 
-- Missão
-- Nome
-- Entrega
-- Financiamento
-- Governança
-- Convite
-- Comunicação
-  - Discord (interna)
-  - Twitter (externa)
+- [Kidsmart DAO](#kidsmart-dao)
+  - [Missão](#missão)
+  - [Nome](#nome)
+  - [Entrega](#entrega)
+  - [Financiamento](#financiamento)
+  - [Governança](#governança)
+  - [Comunicação](#comunicação)
 
 ## Missão
 
